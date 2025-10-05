@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-10-05T17:31:15.287Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>weblab1</title>
+    <link href="http://example.com/2025/10/06/weblab1/"/>
+    <id>http://example.com/2025/10/06/weblab1/</id>
+    <published>2025-10-05T16:37:19.000Z</published>
+    <updated>2025-10-05T17:31:15.287Z</updated>
+    
+    <content type="html"><![CDATA[<div style="max-width:900px;margin:0 auto;padding:20px;line-height:1.8;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; color:#222;"><!-- 标题区（居中） --><div style="text-align:center;margin-bottom:18px;">  <h1 style="margin:0 0 6px 0;font-size:28px;color:#0b4a6f;">中国科学技术大学（University of Science and Technology of China）简介</h1>  <p style="margin:0;color:#555;">扎根皖江，面向世界的高水平研究型大学 · 科研与人才培养并重</p></div><!-- 横向卡片：图片 + 简短概述 --><div style="display:flex;gap:18px;align-items:flex-start;margin:16px 0;padding:14px;border-radius:12px;background:#fbfdff;border:1px solid #eef6fb;">  <div style="flex:1;">    <h2 style="margin:0 0 8px 0;font-size:18px;color:#0b597a;">概览</h2>    <p style="margin:0;color:#444;">      中国科学技术大学（简称中科大，USTC）创建于 1958 年，最初由中国科学院创办，是一所以理、工为主，涵盖理、工、管、文、艺等多学科的研究型大学。中科大在基础科学、交叉学科与前沿技术研究方面具有显著优势，培养了大批优秀科研人才与工程技术人才。    </p>    <p style="margin:8px 0 0 0;color:#666;font-size:14px;">      了解更多：        <a href="https://www.ustc.edu.cn/" target="_blank">学校官网</a> ·      <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" target="_blank">维基百科（英文）</a> ·      <a href="https://admission.ustc.edu.cn/" target="_blank">本科招生（招生网）</a>    </p>  </div></div><!-- 快速信息表格 --><h3 style="margin-top:22px;color:#0b597a;">快速信息</h3><table style="width:100%;border-collapse:collapse;margin:8px 0 18px 0;">  <thead>    <tr style="background:#f5fbff;">      <th style="text-align:left;padding:8px;border:1px solid #e8f1f8;width:30%;">项</th>      <th style="text-align:left;padding:8px;border:1px solid #e8f1f8;">说明</th>    </tr>  </thead>  <tbody>    <tr>      <td style="padding:8px;border:1px solid #eef6fb;">创办时间</td>      <td style="padding:8px;border:1px solid #eef6fb;">1958 年（由中国科学院创办）</td>    </tr>    <tr style="background:#fafcff;">      <td style="padding:8px;border:1px solid #eef6fb;">校区</td>      <td style="padding:8px;border:1px solid #eef6fb;">合肥（主校区）、苏州（科研/研究院区）等</td>    </tr>    <tr>      <td style="padding:8px;border:1px solid #eef6fb;">学科优势</td>      <td style="padding:8px;border:1px solid #eef6fb;">物理、化学、信息科学、材料科学、工程与交叉学科</td>    </tr>    <tr style="background:#fafcff;">      <td style="padding:8px;border:1px solid #eef6fb;">特色</td>      <td style="padding:8px;border:1px solid #eef6fb;">重科研、强师资、培养拔尖创新人才、强调跨学科交叉合作</td>    </tr>  </tbody></table><!-- 详细介绍（分节） --><div style="margin-top:10px;">  <h3 style="color:#0b597a;margin-bottom:6px;">学术与科研</h3>  <p style="margin:0 0 12px 0;color:#444;">    中科大长期在基础研究和前沿技术方面投入大量资源。许多学院与研究院在量子信息、纳米材料、人工智能、生命科学等领域处于国内外领先地位。学校拥有一批国家级科研平台与重点实验室，鼓励学生参与科研项目，培养科研能力与创新精神。  </p>  <h3 style="color:#0b597a;margin-bottom:6px;">人才培养</h3>  <p style="margin:0 0 12px 0;color:#444;">    中科大推行小班化、研究型的教学方式，注重基础理论与科研训练结合。学校设有完善的本科生科研训练体系（如大学生科研训练计划）、强大的研究生培养机制以及与国内外高校和研究机构的合作交换项目。  </p>  <h3 style="color:#0b597a;margin-bottom:6px;">校园文化与学生生活</h3>  <p style="margin:0 0 12px 0;color:#444;">    校园氛围学术浓厚同时生活便利，校园内有丰富的学生社团、科技竞赛与文体活动。合肥校区自然环境优美，适合学习与科研。  </p></div><!-- 结尾 CTA（行动号召） --><div style="margin-top:18px;padding:12px;border-radius:8px;background:linear-gradient(90deg,#f7fbff,#ffffff);border:1px solid #eef6fb;">  <strong style="color:#0b597a;">想了解更多？</strong>  <p style="margin:6px 0 0 0;color:#555;">    可以访问学校官网、招生网或维基百科（上方链接），或者在浏览器中搜索“中科大+具体专业/学院”以获取更详细的介绍与最新动态。  </p></div></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;max-width:900px;margin:0 auto;padding:20px;line-height:1.8;font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, &#39;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2025/10/05/hello-world/"/>
+    <id>http://example.com/2025/10/05/hello-world/</id>
+    <published>2025-10-05T12:48:23.275Z</published>
+    <updated>2025-10-05T12:48:23.275Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
