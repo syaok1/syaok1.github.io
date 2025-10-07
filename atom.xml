@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://syaok1.github.io/project/atom.xml" rel="self"/>
+  <link href="https://syaok1.github.io/atom.xml" rel="self"/>
   
-  <link href="https://syaok1.github.io/project/"/>
+  <link href="https://syaok1.github.io/"/>
   <updated>2025-10-07T07:50:32.518Z</updated>
-  <id>https://syaok1.github.io/project/</id>
+  <id>https://syaok1.github.io/</id>
   
   <author>
     <name>Si Yuan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>weblab1</title>
-    <link href="https://syaok1.github.io/project/2025/10/06/weblab1/"/>
-    <id>https://syaok1.github.io/project/2025/10/06/weblab1/</id>
+    <link href="https://syaok1.github.io/2025/10/06/weblab1/"/>
+    <id>https://syaok1.github.io/2025/10/06/weblab1/</id>
     <published>2025-10-05T16:37:19.000Z</published>
     <updated>2025-10-07T07:50:32.518Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://syaok1.github.io/project/2025/10/05/hello-world/"/>
-    <id>https://syaok1.github.io/project/2025/10/05/hello-world/</id>
+    <link href="https://syaok1.github.io/2025/10/05/hello-world/"/>
+    <id>https://syaok1.github.io/2025/10/05/hello-world/</id>
     <published>2025-10-05T12:48:23.275Z</published>
     <updated>2025-10-05T12:48:23.275Z</updated>
     
